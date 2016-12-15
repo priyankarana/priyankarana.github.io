@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://priyankarana.github.io
+title: WeighToLoose
+email: 
+author: priyankarana
+description: My awesome new site
+paginate: 3
+google_analytics: 
